@@ -1,0 +1,61 @@
+TreverseSentence
+v5
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/reverseSentence.build/Debug/reverseSentence.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/reverseSentence/reverseSentence/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Cong/Desktop/Work/algorithm/reverseSentence/Build/Products/Debug/reverseSentence normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Users/Cong/Desktop/Work/algorithm/reverseSentence/Build/Intermediates/reverseSentence.build/Debug/reverseSentence.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Cong/Desktop/Work/algorithm/reverseSentence/Build/Intermediates/reverseSentence.build/Debug/reverseSentence.build/Objects-normal/x86_64/reverseSentence.LinkFileList
+c0000000051446F2C0000000000000096
+t1363439404
+s150
+
+N/Users/Cong/Desktop/Work/algorithm/reverseSentence/Build/Products/Debug/reverseSentence
+t2
+s0
+
+N/Users/Cong/Desktop/Work/algorithm/reverseSentence/reverseSentence/main.cpp
+c0000000051446F2A000000000000015E
+t1363439402
+s350
+i<iostream>
+
+CBuild AST from /Users/Cong/Desktop/Work/algorithm/reverseSentence/reverseSentence/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies7c64abaca6f4b641^bc03bcaca6f4b641^---0#1#0#--18"Check dependencies36"52AC372C-3052-4D4F-9D3F-22F3994EAC24-
+
+CCompileC Build/Intermediates/reverseSentence.build/Debug/reverseSentence.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/reverseSentence/reverseSentence/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385132204.735768
+e385132205.192668
+r1
+xCompileC
+xBuild/Intermediates/reverseSentence.build/Debug/reverseSentence.build/Objects-normal/x86_64/main.o
+x/Users/Cong/Desktop/Work/algorithm/reverseSentence/reverseSentence/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/Cong/Desktop/Work/algorithm/reverseSentence/reverseSentence/main.cpp3274bcaca6f4b641^2b6832ada6f4b641^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/Cong/Desktop/Work/algorithm/reverseSentence/reverseSentence/main.cpp0000000000000000^3149"CompileC Build/Intermediates/reverseSentence.build/Debug/reverseSentence.build/Objects-normal/x86_64/main.o reverseSentence/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cong/Desktop/Work/algorithm/reverseSentence    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Cong/Desktop/Work/algorithm/reverseSentence/Build/Intermediates/reverseSentence.build/Debug/reverseSentence.build/reverseSentence-generated-files.hmap -I/Users/Cong/Desktop/Work/algorithm/reverseSentence/Build/Intermediates/reverseSentence.build/Debug/reverseSentence.build/reverseSentence-own-target-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/reverseSentence/Build/Intermediates/reverseSentence.build/Debug/reverseSentence.build/reverseSentence-all-target-headers.hmap -iquote /Users/Cong/Desktop/Work/algorithm/reverseSentence/Build/Intermediates/reverseSentence.build/Debug/reverseSentence.build/reverseSentence-project-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/reverseSentence/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cong/Desktop/Work/algorithm/reverseSentence/Build/Intermediates/reverseSentence.build/Debug/reverseSentence.build/DerivedSources/x86_64 -I/Users/Cong/Desktop/Work/algorithm/reverseSentence/Build/Intermediates/reverseSentence.build/Debug/reverseSentence.build/DerivedSources -F/Users/Cong/Desktop/Work/algorithm/reverseSentence/Build/Products/Debug -MMD -MT dependencies -MF /Users/Cong/Desktop/Work/algorithm/reverseSentence/Build/Intermediates/reverseSentence.build/Debug/reverseSentence.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Cong/Desktop/Work/algorithm/reverseSentence/Build/Intermediates/reverseSentence.build/Debug/reverseSentence.build/Objects-normal/x86_64/main.dia -c /Users/Cong/Desktop/Work/algorithm/reverseSentence/reverseSentence/main.cpp -o /Users/Cong/Desktop/Work/algorithm/reverseSentence/Build/Intermediates/reverseSentence.build/Debug/reverseSentence.build/Objects-normal/x86_64/main.o36"4095041D-A1FB-41DD-B8E5-F21FE3EC606E-
+
+CLd /Users/Cong/Desktop/Work/algorithm/reverseSentence/Build/Products/Debug/reverseSentence normal x86_64
+s385132205.201988
+e385132205.226591
+r1
+xLd
+x/Users/Cong/Desktop/Work/algorithm/reverseSentence/Build/Products/Debug/reverseSentence
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Link /Users/Cong/Desktop/Work/algorithm/reverseSentence/Build/Products/Debug/reverseSentence611c34ada6f4b641^700b3aada6f4b641^---0#0#0#--836"Ld Build/Products/Debug/reverseSentence normal x86_64    cd /Users/Cong/Desktop/Work/algorithm/reverseSentence    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/Cong/Desktop/Work/algorithm/reverseSentence/Build/Products/Debug -F/Users/Cong/Desktop/Work/algorithm/reverseSentence/Build/Products/Debug -filelist /Users/Cong/Desktop/Work/algorithm/reverseSentence/Build/Intermediates/reverseSentence.build/Debug/reverseSentence.build/Objects-normal/x86_64/reverseSentence.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -o /Users/Cong/Desktop/Work/algorithm/reverseSentence/Build/Products/Debug/reverseSentence36"021D38FD-3779-4023-87AA-41CEE5C823FC-
+

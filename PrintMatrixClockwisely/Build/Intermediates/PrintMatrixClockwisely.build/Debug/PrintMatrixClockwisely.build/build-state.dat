@@ -1,0 +1,61 @@
+TPrintMatrixClockwisely
+v5
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/PrintMatrixClockwisely.build/Debug/PrintMatrixClockwisely.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/PrintMatrixClockwisely/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/Build/Products/Debug/PrintMatrixClockwisely normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/Build/Intermediates/PrintMatrixClockwisely.build/Debug/PrintMatrixClockwisely.build/Objects-normal/x86_64/PrintMatrixClockwisely.LinkFileList
+c000000005139928700000000000000AB
+t1362727559
+s171
+
+N/Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/Build/Intermediates/PrintMatrixClockwisely.build/Debug/PrintMatrixClockwisely.build/Objects-normal/x86_64/main.o
+t1362730157
+s72728
+
+N/Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/Build/Products/Debug/PrintMatrixClockwisely
+t1362730157
+s17244
+
+N/Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/PrintMatrixClockwisely/main.cpp
+c0000000051399CC40000000000000607
+t1362730180
+s1543
+i<iostream>
+
+CBuild AST from /Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/PrintMatrixClockwisely/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesbdc56344d4e9b641^61fd6344d4e9b641^---0#1#0#--18"Check dependencies36"08BCECEF-086D-42A0-9D36-157B6E86D035-
+
+CCompileC Build/Intermediates/PrintMatrixClockwisely.build/Debug/PrintMatrixClockwisely.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/PrintMatrixClockwisely/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s384422980.391916
+e384422980.890835
+r1
+xCompileC
+xBuild/Intermediates/PrintMatrixClockwisely.build/Debug/PrintMatrixClockwisely.build/Objects-normal/x86_64/main.o
+x/Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/PrintMatrixClockwisely/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/PrintMatrixClockwisely/main.cpp446c6444d4e9b641^800de444d4e9b641^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/PrintMatrixClockwisely/main.cpp0000000000000000^3422"CompileC Build/Intermediates/PrintMatrixClockwisely.build/Debug/PrintMatrixClockwisely.build/Objects-normal/x86_64/main.o PrintMatrixClockwisely/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/Build/Intermediates/PrintMatrixClockwisely.build/Debug/PrintMatrixClockwisely.build/PrintMatrixClockwisely-generated-files.hmap -I/Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/Build/Intermediates/PrintMatrixClockwisely.build/Debug/PrintMatrixClockwisely.build/PrintMatrixClockwisely-own-target-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/Build/Intermediates/PrintMatrixClockwisely.build/Debug/PrintMatrixClockwisely.build/PrintMatrixClockwisely-all-target-headers.hmap -iquote /Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/Build/Intermediates/PrintMatrixClockwisely.build/Debug/PrintMatrixClockwisely.build/PrintMatrixClockwisely-project-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/Build/Intermediates/PrintMatrixClockwisely.build/Debug/PrintMatrixClockwisely.build/DerivedSources/x86_64 -I/Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/Build/Intermediates/PrintMatrixClockwisely.build/Debug/PrintMatrixClockwisely.build/DerivedSources -F/Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/Build/Products/Debug -MMD -MT dependencies -MF /Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/Build/Intermediates/PrintMatrixClockwisely.build/Debug/PrintMatrixClockwisely.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/Build/Intermediates/PrintMatrixClockwisely.build/Debug/PrintMatrixClockwisely.build/Objects-normal/x86_64/main.dia -c /Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/PrintMatrixClockwisely/main.cpp -o /Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/Build/Intermediates/PrintMatrixClockwisely.build/Debug/PrintMatrixClockwisely.build/Objects-normal/x86_64/main.o36"BD93607B-D35B-4FFC-9036-1383C3552249-
+
+CLd /Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/Build/Products/Debug/PrintMatrixClockwisely normal x86_64
+s384422980.897994
+e384422980.929665
+r1
+xLd
+x/Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/Build/Products/Debug/PrintMatrixClockwisely
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Link /Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/Build/Products/Debug/PrintMatrixClockwisely0ef3e544d4e9b641^fcfeed44d4e9b641^---0#0#0#--906"Ld Build/Products/Debug/PrintMatrixClockwisely normal x86_64    cd /Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/Build/Products/Debug -F/Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/Build/Products/Debug -filelist /Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/Build/Intermediates/PrintMatrixClockwisely.build/Debug/PrintMatrixClockwisely.build/Objects-normal/x86_64/PrintMatrixClockwisely.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -o /Users/Cong/Desktop/Work/algorithm/PrintMatrixClockwisely/Build/Products/Debug/PrintMatrixClockwisely36"72EC7C24-57A0-4A37-8EAE-B902D7934491-
+

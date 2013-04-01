@@ -1,0 +1,65 @@
+TFindNumberWithSum
+v5
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/FindNumberWithSum.build/Debug/FindNumberWithSum.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/FindNumberWithSum/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/Build/Products/Debug/FindNumberWithSum normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/Build/Intermediates/FindNumberWithSum.build/Debug/FindNumberWithSum.build/Objects-normal/x86_64/FindNumberWithSum.LinkFileList
+c000000005144655C000000000000009C
+t1363436892
+s156
+
+N/Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/Build/Intermediates/FindNumberWithSum.build/Debug/FindNumberWithSum.build/Objects-normal/x86_64/main.o
+t1363438589
+s71136
+
+N/Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/Build/Products/Debug/FindNumberWithSum
+t1363438589
+s17224
+
+N/Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/FindNumberWithSum/main.cpp
+c0000000051446C28000000000000054B
+t1363438632
+s1355
+i<iostream>
+
+CBuild AST from /Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/FindNumberWithSum/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies666c90a9a3f4b641^72a790a9a3f4b641^---0#1#0#--18"Check dependencies36"AFD7A101-DA21-4220-8832-DE69181F1A87-
+
+CCompileC Build/Intermediates/FindNumberWithSum.build/Debug/FindNumberWithSum.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/FindNumberWithSum/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385131433.566630
+e385131434.023506
+r1
+xCompileC
+xBuild/Intermediates/FindNumberWithSum.build/Debug/FindNumberWithSum.build/Objects-normal/x86_64/main.o
+x/Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/FindNumberWithSum/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/FindNumberWithSum/main.cpp:62:9: warning: unused variable 'array' [-Wunused-variable]
+o    int array[] = {1, 2, 4, 7, 11, 15};
+o        ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/FindNumberWithSum/main.cppd92691a9a3f4b641^700706aaa3f4b641^-210"/Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/FindNumberWithSum/main.cpp:62:9: warning: unused variable 'array' [-Wunused-variable]    int array[] = {1, 2, 4, 7, 11, 15};        ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@23"Unused variable 'array'-385131434#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@95"file://localhost/Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/FindNumberWithSum/main.cpp0000000000000000^61#8#61#8#1238#0#19"Unused Entity Issue--0#0#0#-19%DVTDocumentLocation4@95"file://localhost/Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/FindNumberWithSum/main.cpp0000000000000000^3227"CompileC Build/Intermediates/FindNumberWithSum.build/Debug/FindNumberWithSum.build/Objects-normal/x86_64/main.o FindNumberWithSum/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cong/Desktop/Work/algorithm/FindNumberWithSum    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/Build/Intermediates/FindNumberWithSum.build/Debug/FindNumberWithSum.build/FindNumberWithSum-generated-files.hmap -I/Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/Build/Intermediates/FindNumberWithSum.build/Debug/FindNumberWithSum.build/FindNumberWithSum-own-target-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/Build/Intermediates/FindNumberWithSum.build/Debug/FindNumberWithSum.build/FindNumberWithSum-all-target-headers.hmap -iquote /Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/Build/Intermediates/FindNumberWithSum.build/Debug/FindNumberWithSum.build/FindNumberWithSum-project-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/Build/Intermediates/FindNumberWithSum.build/Debug/FindNumberWithSum.build/DerivedSources/x86_64 -I/Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/Build/Intermediates/FindNumberWithSum.build/Debug/FindNumberWithSum.build/DerivedSources -F/Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/Build/Products/Debug -MMD -MT dependencies -MF /Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/Build/Intermediates/FindNumberWithSum.build/Debug/FindNumberWithSum.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/Build/Intermediates/FindNumberWithSum.build/Debug/FindNumberWithSum.build/Objects-normal/x86_64/main.dia -c /Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/FindNumberWithSum/main.cpp -o /Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/Build/Intermediates/FindNumberWithSum.build/Debug/FindNumberWithSum.build/Objects-normal/x86_64/main.o36"4F2CF2FD-6130-416F-AAEE-9505528D2FDD-
+
+CLd /Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/Build/Products/Debug/FindNumberWithSum normal x86_64
+s385131434.030536
+e385131434.050304
+r1
+xLd
+x/Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/Build/Products/Debug/FindNumberWithSum
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Link /Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/Build/Products/Debug/FindNumberWithSum65e107aaa3f4b641^a4e10caaa3f4b641^---0#0#0#--856"Ld Build/Products/Debug/FindNumberWithSum normal x86_64    cd /Users/Cong/Desktop/Work/algorithm/FindNumberWithSum    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/Build/Products/Debug -F/Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/Build/Products/Debug -filelist /Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/Build/Intermediates/FindNumberWithSum.build/Debug/FindNumberWithSum.build/Objects-normal/x86_64/FindNumberWithSum.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -o /Users/Cong/Desktop/Work/algorithm/FindNumberWithSum/Build/Products/Debug/FindNumberWithSum36"42DF1AAA-B365-42BE-BD02-2D8777EC4EF8-
+

@@ -1,0 +1,61 @@
+TdeepOfBinaryTree
+v5
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/deepOfBinaryTree.build/Debug/deepOfBinaryTree.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/deepOfBinaryTree/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/Build/Products/Debug/deepOfBinaryTree normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/Build/Intermediates/deepOfBinaryTree.build/Debug/deepOfBinaryTree.build/Objects-normal/x86_64/deepOfBinaryTree.LinkFileList
+c00000000514423960000000000000099
+t1363420054
+s153
+
+N/Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/Build/Intermediates/deepOfBinaryTree.build/Debug/deepOfBinaryTree.build/Objects-normal/x86_64/main.o
+t1363420153
+s70200
+
+N/Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/Build/Products/Debug/deepOfBinaryTree
+t1363420153
+s16988
+
+N/Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/deepOfBinaryTree/main.cpp
+c0000000051442417000000000000016C
+t1363420183
+s364
+i<iostream>
+
+CBuild AST from /Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/deepOfBinaryTree/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies0fb75b995bf4b641^b3ea5b995bf4b641^---0#1#0#--18"Check dependencies36"337E9765-8E12-468F-A84D-61FD3EBF214B-
+
+CCompileC Build/Intermediates/deepOfBinaryTree.build/Debug/deepOfBinaryTree.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/deepOfBinaryTree/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385112985.360575
+e385112985.774205
+r1
+xCompileC
+xBuild/Intermediates/deepOfBinaryTree.build/Debug/deepOfBinaryTree.build/Objects-normal/x86_64/main.o
+x/Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/deepOfBinaryTree/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/deepOfBinaryTree/main.cpp6f665c995bf4b641^0d35c6995bf4b641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/deepOfBinaryTree/main.cpp0000000000000000^3188"CompileC Build/Intermediates/deepOfBinaryTree.build/Debug/deepOfBinaryTree.build/Objects-normal/x86_64/main.o deepOfBinaryTree/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/Build/Intermediates/deepOfBinaryTree.build/Debug/deepOfBinaryTree.build/deepOfBinaryTree-generated-files.hmap -I/Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/Build/Intermediates/deepOfBinaryTree.build/Debug/deepOfBinaryTree.build/deepOfBinaryTree-own-target-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/Build/Intermediates/deepOfBinaryTree.build/Debug/deepOfBinaryTree.build/deepOfBinaryTree-all-target-headers.hmap -iquote /Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/Build/Intermediates/deepOfBinaryTree.build/Debug/deepOfBinaryTree.build/deepOfBinaryTree-project-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/Build/Intermediates/deepOfBinaryTree.build/Debug/deepOfBinaryTree.build/DerivedSources/x86_64 -I/Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/Build/Intermediates/deepOfBinaryTree.build/Debug/deepOfBinaryTree.build/DerivedSources -F/Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/Build/Products/Debug -MMD -MT dependencies -MF /Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/Build/Intermediates/deepOfBinaryTree.build/Debug/deepOfBinaryTree.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/Build/Intermediates/deepOfBinaryTree.build/Debug/deepOfBinaryTree.build/Objects-normal/x86_64/main.dia -c /Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/deepOfBinaryTree/main.cpp -o /Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/Build/Intermediates/deepOfBinaryTree.build/Debug/deepOfBinaryTree.build/Objects-normal/x86_64/main.o36"E0F9FEEC-2AA7-497D-8257-A0B12E597C67-
+
+CLd /Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/Build/Products/Debug/deepOfBinaryTree normal x86_64
+s385112985.797818
+e385112985.816747
+r1
+xLd
+x/Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/Build/Products/Debug/deepOfBinaryTree
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Link /Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/Build/Products/Debug/deepOfBinaryTreee84ecc995bf4b641^df19d1995bf4b641^---0#0#0#--846"Ld Build/Products/Debug/deepOfBinaryTree normal x86_64    cd /Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/Build/Products/Debug -F/Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/Build/Products/Debug -filelist /Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/Build/Intermediates/deepOfBinaryTree.build/Debug/deepOfBinaryTree.build/Objects-normal/x86_64/deepOfBinaryTree.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -o /Users/Cong/Desktop/Work/algorithm/deepOfBinaryTree/Build/Products/Debug/deepOfBinaryTree36"81A7E2BA-817B-4EE2-B37D-43CB07478C94-
+

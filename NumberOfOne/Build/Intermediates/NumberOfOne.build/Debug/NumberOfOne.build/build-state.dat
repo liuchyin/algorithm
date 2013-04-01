@@ -1,0 +1,61 @@
+TNumberOfOne
+v5
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/NumberOfOne.build/Debug/NumberOfOne.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/NumberOfOne/NumberOfOne/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Cong/Desktop/Work/algorithm/NumberOfOne/Build/Products/Debug/NumberOfOne normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Users/Cong/Desktop/Work/algorithm/NumberOfOne/Build/Intermediates/NumberOfOne.build/Debug/NumberOfOne.build/Objects-normal/x86_64/NumberOfOne.LinkFileList
+c000000005141D08C000000000000008A
+t1363267724
+s138
+
+N/Users/Cong/Desktop/Work/algorithm/NumberOfOne/Build/Intermediates/NumberOfOne.build/Debug/NumberOfOne.build/Objects-normal/x86_64/main.o
+t1363268016
+s72144
+
+N/Users/Cong/Desktop/Work/algorithm/NumberOfOne/Build/Products/Debug/NumberOfOne
+t1363268016
+s16324
+
+N/Users/Cong/Desktop/Work/algorithm/NumberOfOne/NumberOfOne/main.cpp
+c000000005141D1AF0000000000000491
+t1363268015
+s1169
+i<iostream>
+
+CBuild AST from /Users/Cong/Desktop/Work/algorithm/NumberOfOne/NumberOfOne/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb7ee726d09f2b641^2365736d09f2b641^---0#1#0#--18"Check dependencies36"30A0499E-E50E-4CC8-A52C-C5B1ECE2CF47-
+
+CCompileC Build/Intermediates/NumberOfOne.build/Debug/NumberOfOne.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/NumberOfOne/NumberOfOne/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s384960815.648641
+e384960816.140834
+r1
+xCompileC
+xBuild/Intermediates/NumberOfOne.build/Debug/NumberOfOne.build/Objects-normal/x86_64/main.o
+x/Users/Cong/Desktop/Work/algorithm/NumberOfOne/NumberOfOne/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/Cong/Desktop/Work/algorithm/NumberOfOne/NumberOfOne/main.cppb22aa62f09f2b641^cb0f243009f2b641^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/Cong/Desktop/Work/algorithm/NumberOfOne/NumberOfOne/main.cpp0000000000000000^2993"CompileC Build/Intermediates/NumberOfOne.build/Debug/NumberOfOne.build/Objects-normal/x86_64/main.o NumberOfOne/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cong/Desktop/Work/algorithm/NumberOfOne    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Cong/Desktop/Work/algorithm/NumberOfOne/Build/Intermediates/NumberOfOne.build/Debug/NumberOfOne.build/NumberOfOne-generated-files.hmap -I/Users/Cong/Desktop/Work/algorithm/NumberOfOne/Build/Intermediates/NumberOfOne.build/Debug/NumberOfOne.build/NumberOfOne-own-target-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/NumberOfOne/Build/Intermediates/NumberOfOne.build/Debug/NumberOfOne.build/NumberOfOne-all-target-headers.hmap -iquote /Users/Cong/Desktop/Work/algorithm/NumberOfOne/Build/Intermediates/NumberOfOne.build/Debug/NumberOfOne.build/NumberOfOne-project-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/NumberOfOne/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cong/Desktop/Work/algorithm/NumberOfOne/Build/Intermediates/NumberOfOne.build/Debug/NumberOfOne.build/DerivedSources/x86_64 -I/Users/Cong/Desktop/Work/algorithm/NumberOfOne/Build/Intermediates/NumberOfOne.build/Debug/NumberOfOne.build/DerivedSources -F/Users/Cong/Desktop/Work/algorithm/NumberOfOne/Build/Products/Debug -MMD -MT dependencies -MF /Users/Cong/Desktop/Work/algorithm/NumberOfOne/Build/Intermediates/NumberOfOne.build/Debug/NumberOfOne.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Cong/Desktop/Work/algorithm/NumberOfOne/Build/Intermediates/NumberOfOne.build/Debug/NumberOfOne.build/Objects-normal/x86_64/main.dia -c /Users/Cong/Desktop/Work/algorithm/NumberOfOne/NumberOfOne/main.cpp -o /Users/Cong/Desktop/Work/algorithm/NumberOfOne/Build/Intermediates/NumberOfOne.build/Debug/NumberOfOne.build/Objects-normal/x86_64/main.o36"497CB612-E5CC-4816-886A-E1647C19A6E5-
+
+CLd /Users/Cong/Desktop/Work/algorithm/NumberOfOne/Build/Products/Debug/NumberOfOne normal x86_64
+s384960816.193782
+e384960816.214039
+r1
+xLd
+x/Users/Cong/Desktop/Work/algorithm/NumberOfOne/Build/Products/Debug/NumberOfOne
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Link /Users/Cong/Desktop/Work/algorithm/NumberOfOne/Build/Products/Debug/NumberOfOne43ad313009f2b641^bbd6363009f2b641^---0#0#0#--796"Ld Build/Products/Debug/NumberOfOne normal x86_64    cd /Users/Cong/Desktop/Work/algorithm/NumberOfOne    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/Cong/Desktop/Work/algorithm/NumberOfOne/Build/Products/Debug -F/Users/Cong/Desktop/Work/algorithm/NumberOfOne/Build/Products/Debug -filelist /Users/Cong/Desktop/Work/algorithm/NumberOfOne/Build/Intermediates/NumberOfOne.build/Debug/NumberOfOne.build/Objects-normal/x86_64/NumberOfOne.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -o /Users/Cong/Desktop/Work/algorithm/NumberOfOne/Build/Products/Debug/NumberOfOne36"A317C362-C43C-445D-8AC4-CC043B369FEF-
+

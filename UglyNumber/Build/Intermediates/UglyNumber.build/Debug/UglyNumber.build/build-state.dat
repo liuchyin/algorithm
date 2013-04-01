@@ -1,0 +1,61 @@
+TUglyNumber
+v5
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/UglyNumber/UglyNumber/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Products/Debug/UglyNumber normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/Objects-normal/x86_64/UglyNumber.LinkFileList
+c0000000051431EFB0000000000000087
+t1363353339
+s135
+
+N/Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/Objects-normal/x86_64/main.o
+t1363353531
+s59340
+
+N/Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Products/Debug/UglyNumber
+t1363353531
+s10868
+
+N/Users/Cong/Desktop/Work/algorithm/UglyNumber/UglyNumber/main.cpp
+c0000000051431FC00000000000000427
+t1363353536
+s1063
+i<iostream>
+
+CBuild AST from /Users/Cong/Desktop/Work/algorithm/UglyNumber/UglyNumber/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies01e0404057f3b641^8a1d414057f3b641^---0#1#0#--18"Check dependencies36"B08D30C4-6807-4D62-8CDD-01077A8A865E-
+
+CCompileC Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/UglyNumber/UglyNumber/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385046336.255657
+e385046336.659408
+r1
+xCompileC
+xBuild/Intermediates/UglyNumber.build/Debug/UglyNumber.build/Objects-normal/x86_64/main.o
+x/Users/Cong/Desktop/Work/algorithm/UglyNumber/UglyNumber/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/Cong/Desktop/Work/algorithm/UglyNumber/UglyNumber/main.cpp7a89414057f3b641^3acfa84057f3b641^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/Cong/Desktop/Work/algorithm/UglyNumber/UglyNumber/main.cpp0000000000000000^2954"CompileC Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/Objects-normal/x86_64/main.o UglyNumber/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cong/Desktop/Work/algorithm/UglyNumber    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/UglyNumber-generated-files.hmap -I/Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/UglyNumber-own-target-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/UglyNumber-all-target-headers.hmap -iquote /Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/UglyNumber-project-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/DerivedSources/x86_64 -I/Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/DerivedSources -F/Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Products/Debug -MMD -MT dependencies -MF /Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/Objects-normal/x86_64/main.dia -c /Users/Cong/Desktop/Work/algorithm/UglyNumber/UglyNumber/main.cpp -o /Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/Objects-normal/x86_64/main.o36"9413CAFC-BCE3-4B3F-A943-16D9D10C0CBC-
+
+CLd /Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Products/Debug/UglyNumber normal x86_64
+s385046336.666147
+e385046336.685124
+r1
+xLd
+x/Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Products/Debug/UglyNumber
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Link /Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Products/Debug/UglyNumber9599aa4057f3b641^7b68af4057f3b641^---0#0#0#--786"Ld Build/Products/Debug/UglyNumber normal x86_64    cd /Users/Cong/Desktop/Work/algorithm/UglyNumber    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Products/Debug -F/Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Products/Debug -filelist /Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/Objects-normal/x86_64/UglyNumber.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -o /Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Products/Debug/UglyNumber36"A76CA985-8CFD-4BF4-A4EA-3DD8A045F963-
+

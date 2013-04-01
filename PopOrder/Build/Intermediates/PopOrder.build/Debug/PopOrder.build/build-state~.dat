@@ -1,0 +1,61 @@
+TPopOrder
+v5
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/PopOrder.build/Debug/PopOrder.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/PopOrder/PopOrder/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Cong/Desktop/Work/algorithm/PopOrder/Build/Products/Debug/PopOrder normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Users/Cong/Desktop/Work/algorithm/PopOrder/Build/Intermediates/PopOrder.build/Debug/PopOrder.build/Objects-normal/x86_64/PopOrder.LinkFileList
+c00000000513AC7780000000000000081
+t1362806648
+s129
+
+N/Users/Cong/Desktop/Work/algorithm/PopOrder/Build/Intermediates/PopOrder.build/Debug/PopOrder.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Cong/Desktop/Work/algorithm/PopOrder/Build/Products/Debug/PopOrder
+t2
+s0
+
+N/Users/Cong/Desktop/Work/algorithm/PopOrder/PopOrder/main.cpp
+c00000000513AC77800000000000002AD
+t1362806648
+s685
+i<iostream>
+
+CBuild AST from /Users/Cong/Desktop/Work/algorithm/PopOrder/PopOrder/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies327345f8feeab641^a27a4bf8feeab641^---0#1#0#--18"Check dependencies36"3711BA74-8A60-4FC8-BBDE-B9523D692C1F-
+
+CCompileC Build/Intermediates/PopOrder.build/Debug/PopOrder.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/PopOrder/PopOrder/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s384499448.294989
+e384499448.877920
+r1
+xCompileC
+xBuild/Intermediates/PopOrder.build/Debug/PopOrder.build/Objects-normal/x86_64/main.o
+x/Users/Cong/Desktop/Work/algorithm/PopOrder/PopOrder/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/Cong/Desktop/Work/algorithm/PopOrder/PopOrder/main.cpp389e4bf8feeab641^fa26e1f8feeab641^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/Cong/Desktop/Work/algorithm/PopOrder/PopOrder/main.cpp0000000000000000^2876"CompileC Build/Intermediates/PopOrder.build/Debug/PopOrder.build/Objects-normal/x86_64/main.o PopOrder/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cong/Desktop/Work/algorithm/PopOrder    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Cong/Desktop/Work/algorithm/PopOrder/Build/Intermediates/PopOrder.build/Debug/PopOrder.build/PopOrder-generated-files.hmap -I/Users/Cong/Desktop/Work/algorithm/PopOrder/Build/Intermediates/PopOrder.build/Debug/PopOrder.build/PopOrder-own-target-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/PopOrder/Build/Intermediates/PopOrder.build/Debug/PopOrder.build/PopOrder-all-target-headers.hmap -iquote /Users/Cong/Desktop/Work/algorithm/PopOrder/Build/Intermediates/PopOrder.build/Debug/PopOrder.build/PopOrder-project-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/PopOrder/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cong/Desktop/Work/algorithm/PopOrder/Build/Intermediates/PopOrder.build/Debug/PopOrder.build/DerivedSources/x86_64 -I/Users/Cong/Desktop/Work/algorithm/PopOrder/Build/Intermediates/PopOrder.build/Debug/PopOrder.build/DerivedSources -F/Users/Cong/Desktop/Work/algorithm/PopOrder/Build/Products/Debug -MMD -MT dependencies -MF /Users/Cong/Desktop/Work/algorithm/PopOrder/Build/Intermediates/PopOrder.build/Debug/PopOrder.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Cong/Desktop/Work/algorithm/PopOrder/Build/Intermediates/PopOrder.build/Debug/PopOrder.build/Objects-normal/x86_64/main.dia -c /Users/Cong/Desktop/Work/algorithm/PopOrder/PopOrder/main.cpp -o /Users/Cong/Desktop/Work/algorithm/PopOrder/Build/Intermediates/PopOrder.build/Debug/PopOrder.build/Objects-normal/x86_64/main.o36"FAA380B7-94CA-4424-8623-0B90B8034361-
+
+CLd /Users/Cong/Desktop/Work/algorithm/PopOrder/Build/Products/Debug/PopOrder normal x86_64
+s384499448.884511
+e384499448.977550
+r1
+xLd
+x/Users/Cong/Desktop/Work/algorithm/PopOrder/Build/Products/Debug/PopOrder
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Link /Users/Cong/Desktop/Work/algorithm/PopOrder/Build/Products/Debug/PopOrdera27fe2f8feeab641^e412fbf8feeab641^---0#0#0#--766"Ld Build/Products/Debug/PopOrder normal x86_64    cd /Users/Cong/Desktop/Work/algorithm/PopOrder    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/Cong/Desktop/Work/algorithm/PopOrder/Build/Products/Debug -F/Users/Cong/Desktop/Work/algorithm/PopOrder/Build/Products/Debug -filelist /Users/Cong/Desktop/Work/algorithm/PopOrder/Build/Intermediates/PopOrder.build/Debug/PopOrder.build/Objects-normal/x86_64/PopOrder.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -o /Users/Cong/Desktop/Work/algorithm/PopOrder/Build/Products/Debug/PopOrder36"A6558808-E44F-4E4C-A788-4108F1E52C9F-
+

@@ -1,0 +1,61 @@
+TminK
+v5
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/minK.build/Debug/minK.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/minK/minK/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Cong/Desktop/Work/algorithm/minK/Build/Products/Debug/minK normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Users/Cong/Desktop/Work/algorithm/minK/Build/Intermediates/minK.build/Debug/minK.build/Objects-normal/x86_64/main.o
+t1363261236
+s134884
+
+N/Users/Cong/Desktop/Work/algorithm/minK/Build/Intermediates/minK.build/Debug/minK.build/Objects-normal/x86_64/minK.LinkFileList
+c000000005141B24B0000000000000075
+t1363259979
+s117
+
+N/Users/Cong/Desktop/Work/algorithm/minK/Build/Products/Debug/minK
+t1363261236
+s30072
+
+N/Users/Cong/Desktop/Work/algorithm/minK/minK/main.cpp
+c000000005141B74A0000000000000709
+t1363261258
+s1801
+i<iostream>
+
+CBuild AST from /Users/Cong/Desktop/Work/algorithm/minK/minK/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies4c36b6cceef1b641^2865b6cceef1b641^---0#1#0#--18"Check dependencies36"B3A69D6A-373E-4677-9533-DB27247EF601-
+
+CCompileC Build/Intermediates/minK.build/Debug/minK.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/minK/minK/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s384954060.713834
+e384954061.237880
+r1
+xCompileC
+xBuild/Intermediates/minK.build/Debug/minK.build/Objects-normal/x86_64/main.o
+x/Users/Cong/Desktop/Work/algorithm/minK/minK/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/Cong/Desktop/Work/algorithm/minK/minK/main.cppd4d4b6cceef1b641^e6e53ccdeef1b641^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/Cong/Desktop/Work/algorithm/minK/minK/main.cpp0000000000000000^2720"CompileC Build/Intermediates/minK.build/Debug/minK.build/Objects-normal/x86_64/main.o minK/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cong/Desktop/Work/algorithm/minK    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Cong/Desktop/Work/algorithm/minK/Build/Intermediates/minK.build/Debug/minK.build/minK-generated-files.hmap -I/Users/Cong/Desktop/Work/algorithm/minK/Build/Intermediates/minK.build/Debug/minK.build/minK-own-target-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/minK/Build/Intermediates/minK.build/Debug/minK.build/minK-all-target-headers.hmap -iquote /Users/Cong/Desktop/Work/algorithm/minK/Build/Intermediates/minK.build/Debug/minK.build/minK-project-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/minK/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cong/Desktop/Work/algorithm/minK/Build/Intermediates/minK.build/Debug/minK.build/DerivedSources/x86_64 -I/Users/Cong/Desktop/Work/algorithm/minK/Build/Intermediates/minK.build/Debug/minK.build/DerivedSources -F/Users/Cong/Desktop/Work/algorithm/minK/Build/Products/Debug -MMD -MT dependencies -MF /Users/Cong/Desktop/Work/algorithm/minK/Build/Intermediates/minK.build/Debug/minK.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Cong/Desktop/Work/algorithm/minK/Build/Intermediates/minK.build/Debug/minK.build/Objects-normal/x86_64/main.dia -c /Users/Cong/Desktop/Work/algorithm/minK/minK/main.cpp -o /Users/Cong/Desktop/Work/algorithm/minK/Build/Intermediates/minK.build/Debug/minK.build/Objects-normal/x86_64/main.o36"3D6E389F-9ECF-411E-A2E7-4932EBC18ED2-
+
+CLd /Users/Cong/Desktop/Work/algorithm/minK/Build/Products/Debug/minK normal x86_64
+s384954061.244678
+e384954061.273049
+r1
+xLd
+x/Users/Cong/Desktop/Work/algorithm/minK/Build/Products/Debug/minK
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Link /Users/Cong/Desktop/Work/algorithm/minK/Build/Products/Debug/minK89b33ecdeef1b641^53e745cdeef1b641^---0#0#0#--726"Ld Build/Products/Debug/minK normal x86_64    cd /Users/Cong/Desktop/Work/algorithm/minK    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/Cong/Desktop/Work/algorithm/minK/Build/Products/Debug -F/Users/Cong/Desktop/Work/algorithm/minK/Build/Products/Debug -filelist /Users/Cong/Desktop/Work/algorithm/minK/Build/Intermediates/minK.build/Debug/minK.build/Objects-normal/x86_64/minK.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -o /Users/Cong/Desktop/Work/algorithm/minK/Build/Products/Debug/minK36"D4B29380-3A5A-489D-8E42-A7DC4B9B8F2D-
+

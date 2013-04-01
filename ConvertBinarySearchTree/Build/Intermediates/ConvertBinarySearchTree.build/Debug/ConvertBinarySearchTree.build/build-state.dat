@@ -1,0 +1,61 @@
+TConvertBinarySearchTree
+v5
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/ConvertBinarySearchTree.build/Debug/ConvertBinarySearchTree.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/ConvertBinarySearchTree/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/Build/Products/Debug/ConvertBinarySearchTree normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/Build/Intermediates/ConvertBinarySearchTree.build/Debug/ConvertBinarySearchTree.build/Objects-normal/x86_64/ConvertBinarySearchTree.LinkFileList
+c00000000513E9C8300000000000000AE
+t1363057795
+s174
+
+N/Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/Build/Intermediates/ConvertBinarySearchTree.build/Debug/ConvertBinarySearchTree.build/Objects-normal/x86_64/main.o
+t1363062347
+s221084
+
+N/Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/Build/Products/Debug/ConvertBinarySearchTree
+t1363062347
+s51624
+
+N/Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/ConvertBinarySearchTree/main.cpp
+c00000000513EAF520000000000000D3A
+t1363062610
+s3386
+i<iostream>
+
+CBuild AST from /Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/ConvertBinarySearchTree/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesd7de2fd2e6eeb641^b11530d2e6eeb641^---0#1#0#--18"Check dependencies36"C12CA8A9-EEDA-4DCD-AABA-1CBECCA565C5-
+
+CCompileC Build/Intermediates/ConvertBinarySearchTree.build/Debug/ConvertBinarySearchTree.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/ConvertBinarySearchTree/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s384755410.189455
+e384755410.839220
+r1
+xCompileC
+xBuild/Intermediates/ConvertBinarySearchTree.build/Debug/ConvertBinarySearchTree.build/Objects-normal/x86_64/main.o
+x/Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/ConvertBinarySearchTree/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/ConvertBinarySearchTree/main.cppaf9930d2e6eeb641^1500d7d2e6eeb641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/ConvertBinarySearchTree/main.cpp0000000000000000^3461"CompileC Build/Intermediates/ConvertBinarySearchTree.build/Debug/ConvertBinarySearchTree.build/Objects-normal/x86_64/main.o ConvertBinarySearchTree/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/Build/Intermediates/ConvertBinarySearchTree.build/Debug/ConvertBinarySearchTree.build/ConvertBinarySearchTree-generated-files.hmap -I/Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/Build/Intermediates/ConvertBinarySearchTree.build/Debug/ConvertBinarySearchTree.build/ConvertBinarySearchTree-own-target-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/Build/Intermediates/ConvertBinarySearchTree.build/Debug/ConvertBinarySearchTree.build/ConvertBinarySearchTree-all-target-headers.hmap -iquote /Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/Build/Intermediates/ConvertBinarySearchTree.build/Debug/ConvertBinarySearchTree.build/ConvertBinarySearchTree-project-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/Build/Intermediates/ConvertBinarySearchTree.build/Debug/ConvertBinarySearchTree.build/DerivedSources/x86_64 -I/Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/Build/Intermediates/ConvertBinarySearchTree.build/Debug/ConvertBinarySearchTree.build/DerivedSources -F/Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/Build/Products/Debug -MMD -MT dependencies -MF /Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/Build/Intermediates/ConvertBinarySearchTree.build/Debug/ConvertBinarySearchTree.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/Build/Intermediates/ConvertBinarySearchTree.build/Debug/ConvertBinarySearchTree.build/Objects-normal/x86_64/main.dia -c /Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/ConvertBinarySearchTree/main.cpp -o /Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/Build/Intermediates/ConvertBinarySearchTree.build/Debug/ConvertBinarySearchTree.build/Objects-normal/x86_64/main.o36"418E7EDF-95A0-49A7-9C5B-4D0EE26EA6E4-
+
+CLd /Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/Build/Products/Debug/ConvertBinarySearchTree normal x86_64
+s384755410.845442
+e384755410.866374
+r1
+xLd
+x/Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/Build/Products/Debug/ConvertBinarySearchTree
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Link /Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/Build/Products/Debug/ConvertBinarySearchTree137fd8d2e6eeb641^67d7ddd2e6eeb641^---0#0#0#--916"Ld Build/Products/Debug/ConvertBinarySearchTree normal x86_64    cd /Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/Build/Products/Debug -F/Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/Build/Products/Debug -filelist /Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/Build/Intermediates/ConvertBinarySearchTree.build/Debug/ConvertBinarySearchTree.build/Objects-normal/x86_64/ConvertBinarySearchTree.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -o /Users/Cong/Desktop/Work/algorithm/ConvertBinarySearchTree/Build/Products/Debug/ConvertBinarySearchTree36"A112239D-54D7-43EB-A92F-2D0F944520E5-
+

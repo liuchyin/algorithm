@@ -1,0 +1,68 @@
+TUglyNumber
+v5
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/UglyNumber/UglyNumber/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/Objects-normal/x86_64/UglyNumber.LinkFileList
+c0000000051431EFB0000000000000087
+t1363353339
+s135
+
+N/Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Products/Debug/UglyNumber
+t2
+s0
+
+N/Users/Cong/Desktop/Work/algorithm/UglyNumber/UglyNumber/main.cpp
+c0000000051431EF900000000000003D6
+t1363353337
+s982
+i<iostream>
+
+CBuild AST from /Users/Cong/Desktop/Work/algorithm/UglyNumber/UglyNumber/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies46264c7b56f3b641^11c6577b56f3b641^---0#1#0#--18"Check dependencies36"E0F3DEC3-0EED-4F1A-BC7E-52C08A4A1012-
+
+CCompileC Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/UglyNumber/UglyNumber/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385046139.344567
+e385046139.741466
+r0
+xCompileC
+xBuild/Intermediates/UglyNumber.build/Debug/UglyNumber.build/Objects-normal/x86_64/main.o
+x/Users/Cong/Desktop/Work/algorithm/UglyNumber/UglyNumber/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/Cong/Desktop/Work/algorithm/UglyNumber/UglyNumber/main.cpp:46:5: error: use of undeclared identifier 'cout'; did you mean 'std::cout'?
+o    cout<<getUglyNumber(3)<<endl;
+o    ^~~~
+o    std::cout
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:49:32: note: 'std::cout' declared here
+oextern _LIBCPP_VISIBLE ostream cout;
+o                               ^
+o/Users/Cong/Desktop/Work/algorithm/UglyNumber/UglyNumber/main.cpp:46:29: error: use of undeclared identifier 'endl'; did you mean 'std::endl'?
+o    cout<<getUglyNumber(3)<<endl;
+o                            ^~~~
+o                            std::endl
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ostream:1187:1: note: 'std::endl' declared here
+oendl(basic_ostream<_CharT, _Traits>& __os)
+o^
+o2 errors generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/Cong/Desktop/Work/algorithm/UglyNumber/UglyNumber/main.cppd15b587b56f3b641^03cfbd7b56f3b641^-880"/Users/Cong/Desktop/Work/algorithm/UglyNumber/UglyNumber/main.cpp:46:5: error: use of undeclared identifier 'cout'; did you mean 'std::cout'?    cout<<getUglyNumber(3)<<endl;    ^~~~    std::cout/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:49:32: note: 'std::cout' declared hereextern _LIBCPP_VISIBLE ostream cout;                               ^/Users/Cong/Desktop/Work/algorithm/UglyNumber/UglyNumber/main.cpp:46:29: error: use of undeclared identifier 'endl'; did you mean 'std::endl'?    cout<<getUglyNumber(3)<<endl;                            ^~~~                            std::endl/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ostream:1187:1: note: 'std::endl' declared hereendl(basic_ostream<_CharT, _Traits>& __os)^2 errors generated.2(36%IDEClangDiagnosticActivityLogMessage2@62"Use of undeclared identifier 'cout'; did you mean 'std::cout'?-385046139#18446744073709551615#0#1(2@25"'std::cout' declared here-385046139#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@118"file://localhost/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/iostream0000000000000000^48#31#48#31#1006#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@81"file://localhost/Users/Cong/Desktop/Work/algorithm/UglyNumber/UglyNumber/main.cpp0000000000000000^45#4#45#4#930#0#14"Semantic Issue1(3@81"file://localhost/Users/Cong/Desktop/Work/algorithm/UglyNumber/UglyNumber/main.cpp0000000000000000^45#4#45#8#930#4#-2@62"Use of undeclared identifier 'endl'; did you mean 'std::endl'?-385046139#18446744073709551615#0#1(2@25"'std::endl' declared here-385046139#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@117"file://localhost/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/ostream0000000000000000^1186#0#1186#0#35662#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@81"file://localhost/Users/Cong/Desktop/Work/algorithm/UglyNumber/UglyNumber/main.cpp0000000000000000^45#28#45#28#954#0#14"Semantic Issue1(3@81"file://localhost/Users/Cong/Desktop/Work/algorithm/UglyNumber/UglyNumber/main.cpp0000000000000000^45#28#45#32#954#4#-0#0#0#-19%DVTDocumentLocation4@81"file://localhost/Users/Cong/Desktop/Work/algorithm/UglyNumber/UglyNumber/main.cpp0000000000000000^2954"CompileC Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/Objects-normal/x86_64/main.o UglyNumber/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cong/Desktop/Work/algorithm/UglyNumber    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/UglyNumber-generated-files.hmap -I/Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/UglyNumber-own-target-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/UglyNumber-all-target-headers.hmap -iquote /Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/UglyNumber-project-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/DerivedSources/x86_64 -I/Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/DerivedSources -F/Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Products/Debug -MMD -MT dependencies -MF /Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/Objects-normal/x86_64/main.dia -c /Users/Cong/Desktop/Work/algorithm/UglyNumber/UglyNumber/main.cpp -o /Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Intermediates/UglyNumber.build/Debug/UglyNumber.build/Objects-normal/x86_64/main.o36"58E7D683-1AF4-4A41-B5B7-D9D67108AFC7-
+
+CLd /Users/Cong/Desktop/Work/algorithm/UglyNumber/Build/Products/Debug/UglyNumber normal x86_64
+r0
+

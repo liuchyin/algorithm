@@ -1,0 +1,61 @@
+TStackWithMin
+v5
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/StackWithMin.build/Debug/StackWithMin.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/StackWithMin/StackWithMin/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Cong/Desktop/Work/algorithm/StackWithMin/Build/Products/Debug/StackWithMin normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Users/Cong/Desktop/Work/algorithm/StackWithMin/Build/Intermediates/StackWithMin.build/Debug/StackWithMin.build/Objects-normal/x86_64/StackWithMin.LinkFileList
+c00000000513AC0AC000000000000008D
+t1362804908
+s141
+
+N/Users/Cong/Desktop/Work/algorithm/StackWithMin/Build/Intermediates/StackWithMin.build/Debug/StackWithMin.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Cong/Desktop/Work/algorithm/StackWithMin/Build/Products/Debug/StackWithMin
+t2
+s0
+
+N/Users/Cong/Desktop/Work/algorithm/StackWithMin/StackWithMin/main.cpp
+c00000000513AC0AC0000000000000516
+t1362804908
+s1302
+i<iostream>
+
+CBuild AST from /Users/Cong/Desktop/Work/algorithm/StackWithMin/StackWithMin/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies8fe1ad2cf8eab641^d1b0b02cf8eab641^---0#1#0#--18"Check dependencies36"13AAB89C-3BCF-4914-890C-66B9CD511C30-
+
+CCompileC Build/Intermediates/StackWithMin.build/Debug/StackWithMin.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/StackWithMin/StackWithMin/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s384497708.697917
+e384497709.311678
+r1
+xCompileC
+xBuild/Intermediates/StackWithMin.build/Debug/StackWithMin.build/Objects-normal/x86_64/main.o
+x/Users/Cong/Desktop/Work/algorithm/StackWithMin/StackWithMin/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/Cong/Desktop/Work/algorithm/StackWithMin/StackWithMin/main.cpp446cb42cf8eab641^efc94f2df8eab641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/Cong/Desktop/Work/algorithm/StackWithMin/StackWithMin/main.cpp0000000000000000^3032"CompileC Build/Intermediates/StackWithMin.build/Debug/StackWithMin.build/Objects-normal/x86_64/main.o StackWithMin/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cong/Desktop/Work/algorithm/StackWithMin    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Cong/Desktop/Work/algorithm/StackWithMin/Build/Intermediates/StackWithMin.build/Debug/StackWithMin.build/StackWithMin-generated-files.hmap -I/Users/Cong/Desktop/Work/algorithm/StackWithMin/Build/Intermediates/StackWithMin.build/Debug/StackWithMin.build/StackWithMin-own-target-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/StackWithMin/Build/Intermediates/StackWithMin.build/Debug/StackWithMin.build/StackWithMin-all-target-headers.hmap -iquote /Users/Cong/Desktop/Work/algorithm/StackWithMin/Build/Intermediates/StackWithMin.build/Debug/StackWithMin.build/StackWithMin-project-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/StackWithMin/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cong/Desktop/Work/algorithm/StackWithMin/Build/Intermediates/StackWithMin.build/Debug/StackWithMin.build/DerivedSources/x86_64 -I/Users/Cong/Desktop/Work/algorithm/StackWithMin/Build/Intermediates/StackWithMin.build/Debug/StackWithMin.build/DerivedSources -F/Users/Cong/Desktop/Work/algorithm/StackWithMin/Build/Products/Debug -MMD -MT dependencies -MF /Users/Cong/Desktop/Work/algorithm/StackWithMin/Build/Intermediates/StackWithMin.build/Debug/StackWithMin.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Cong/Desktop/Work/algorithm/StackWithMin/Build/Intermediates/StackWithMin.build/Debug/StackWithMin.build/Objects-normal/x86_64/main.dia -c /Users/Cong/Desktop/Work/algorithm/StackWithMin/StackWithMin/main.cpp -o /Users/Cong/Desktop/Work/algorithm/StackWithMin/Build/Intermediates/StackWithMin.build/Debug/StackWithMin.build/Objects-normal/x86_64/main.o36"87A3498B-B50C-464A-825A-E475974BF60F-
+
+CLd /Users/Cong/Desktop/Work/algorithm/StackWithMin/Build/Products/Debug/StackWithMin normal x86_64
+s384497709.318485
+e384497709.401085
+r1
+xLd
+x/Users/Cong/Desktop/Work/algorithm/StackWithMin/Build/Products/Debug/StackWithMin
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Link /Users/Cong/Desktop/Work/algorithm/StackWithMin/Build/Products/Debug/StackWithMin1898512df8eab641^3cd8662df8eab641^---0#0#0#--806"Ld Build/Products/Debug/StackWithMin normal x86_64    cd /Users/Cong/Desktop/Work/algorithm/StackWithMin    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/Cong/Desktop/Work/algorithm/StackWithMin/Build/Products/Debug -F/Users/Cong/Desktop/Work/algorithm/StackWithMin/Build/Products/Debug -filelist /Users/Cong/Desktop/Work/algorithm/StackWithMin/Build/Intermediates/StackWithMin.build/Debug/StackWithMin.build/Objects-normal/x86_64/StackWithMin.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -o /Users/Cong/Desktop/Work/algorithm/StackWithMin/Build/Products/Debug/StackWithMin36"BA6475AC-28CD-4CFC-8151-A3783294D3E1-
+

@@ -1,0 +1,65 @@
+TIsContinuous
+v5
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/IsContinuous.build/Debug/IsContinuous.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/IsContinuous/IsContinuous/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Cong/Desktop/Work/algorithm/IsContinuous/Build/Products/Debug/IsContinuous normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Users/Cong/Desktop/Work/algorithm/IsContinuous/Build/Intermediates/IsContinuous.build/Debug/IsContinuous.build/Objects-normal/x86_64/IsContinuous.LinkFileList
+c000000005145789F000000000000008D
+t1363507359
+s141
+
+N/Users/Cong/Desktop/Work/algorithm/IsContinuous/Build/Intermediates/IsContinuous.build/Debug/IsContinuous.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Cong/Desktop/Work/algorithm/IsContinuous/Build/Products/Debug/IsContinuous
+t2
+s0
+
+N/Users/Cong/Desktop/Work/algorithm/IsContinuous/IsContinuous/main.cpp
+c000000005145789D00000000000001D4
+t1363507357
+s468
+i<iostream>
+
+CBuild AST from /Users/Cong/Desktop/Work/algorithm/IsContinuous/IsContinuous/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies971f381fb0f5b641^f3393b1fb0f5b641^---0#1#0#--18"Check dependencies36"67B25C5F-C5E4-4DC4-835F-A78F5CB76DEA-
+
+CCompileC Build/Intermediates/IsContinuous.build/Debug/IsContinuous.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/IsContinuous/IsContinuous/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385200159.232359
+e385200159.661207
+r1
+xCompileC
+xBuild/Intermediates/IsContinuous.build/Debug/IsContinuous.build/Objects-normal/x86_64/main.o
+x/Users/Cong/Desktop/Work/algorithm/IsContinuous/IsContinuous/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/Cong/Desktop/Work/algorithm/IsContinuous/IsContinuous/main.cpp:19:1: warning: control may reach end of non-void function [-Wreturn-type]
+o}
+o^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/Cong/Desktop/Work/algorithm/IsContinuous/IsContinuous/main.cppde933b1fb0f5b641^5245a91fb0f5b641^-169"/Users/Cong/Desktop/Work/algorithm/IsContinuous/IsContinuous/main.cpp:19:1: warning: control may reach end of non-void function [-Wreturn-type]}^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@42"Control may reach end of non-void function-385200159#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@85"file://localhost/Users/Cong/Desktop/Work/algorithm/IsContinuous/IsContinuous/main.cpp0000000000000000^18#0#18#0#307#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@85"file://localhost/Users/Cong/Desktop/Work/algorithm/IsContinuous/IsContinuous/main.cpp0000000000000000^3032"CompileC Build/Intermediates/IsContinuous.build/Debug/IsContinuous.build/Objects-normal/x86_64/main.o IsContinuous/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cong/Desktop/Work/algorithm/IsContinuous    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Cong/Desktop/Work/algorithm/IsContinuous/Build/Intermediates/IsContinuous.build/Debug/IsContinuous.build/IsContinuous-generated-files.hmap -I/Users/Cong/Desktop/Work/algorithm/IsContinuous/Build/Intermediates/IsContinuous.build/Debug/IsContinuous.build/IsContinuous-own-target-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/IsContinuous/Build/Intermediates/IsContinuous.build/Debug/IsContinuous.build/IsContinuous-all-target-headers.hmap -iquote /Users/Cong/Desktop/Work/algorithm/IsContinuous/Build/Intermediates/IsContinuous.build/Debug/IsContinuous.build/IsContinuous-project-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/IsContinuous/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cong/Desktop/Work/algorithm/IsContinuous/Build/Intermediates/IsContinuous.build/Debug/IsContinuous.build/DerivedSources/x86_64 -I/Users/Cong/Desktop/Work/algorithm/IsContinuous/Build/Intermediates/IsContinuous.build/Debug/IsContinuous.build/DerivedSources -F/Users/Cong/Desktop/Work/algorithm/IsContinuous/Build/Products/Debug -MMD -MT dependencies -MF /Users/Cong/Desktop/Work/algorithm/IsContinuous/Build/Intermediates/IsContinuous.build/Debug/IsContinuous.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Cong/Desktop/Work/algorithm/IsContinuous/Build/Intermediates/IsContinuous.build/Debug/IsContinuous.build/Objects-normal/x86_64/main.dia -c /Users/Cong/Desktop/Work/algorithm/IsContinuous/IsContinuous/main.cpp -o /Users/Cong/Desktop/Work/algorithm/IsContinuous/Build/Intermediates/IsContinuous.build/Debug/IsContinuous.build/Objects-normal/x86_64/main.o36"38D9AF25-17B3-45A1-BBE4-FCBCC3C66BC2-
+
+CLd /Users/Cong/Desktop/Work/algorithm/IsContinuous/Build/Products/Debug/IsContinuous normal x86_64
+s385200159.668145
+e385200159.687070
+r1
+xLd
+x/Users/Cong/Desktop/Work/algorithm/IsContinuous/Build/Products/Debug/IsContinuous
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Link /Users/Cong/Desktop/Work/algorithm/IsContinuous/Build/Products/Debug/IsContinuousc11aab1fb0f5b641^dee4af1fb0f5b641^---0#0#0#--806"Ld Build/Products/Debug/IsContinuous normal x86_64    cd /Users/Cong/Desktop/Work/algorithm/IsContinuous    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/Cong/Desktop/Work/algorithm/IsContinuous/Build/Products/Debug -F/Users/Cong/Desktop/Work/algorithm/IsContinuous/Build/Products/Debug -filelist /Users/Cong/Desktop/Work/algorithm/IsContinuous/Build/Intermediates/IsContinuous.build/Debug/IsContinuous.build/Objects-normal/x86_64/IsContinuous.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -o /Users/Cong/Desktop/Work/algorithm/IsContinuous/Build/Products/Debug/IsContinuous36"ED922FC1-99F5-4352-864D-437F571784AD-
+
